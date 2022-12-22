@@ -1,4 +1,4 @@
-package org.example.calculator.calculate;
+package org.example.arithmetic.calculate;
 
 public class AdditionOperator implements NewArithmeticOperator {
 
